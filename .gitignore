@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project documentation
+prd.md
+
+# Large datasets
+Data/raw/*.csv
