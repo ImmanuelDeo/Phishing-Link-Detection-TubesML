@@ -216,4 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-data/raw/PhiUSIIL_Phishing_URL_Dataset.csv
+
+# Project documentation
+prd.md
+
+# Large datasets
+Data/raw/*.csv
